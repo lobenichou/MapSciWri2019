@@ -1,3 +1,8 @@
+# Introduction to Digital Mapping at SciWri2019
+
+- [The Slides](http://bit.ly/SciWriMappingSlides)
+- [The map](http://bit.ly/SciWriFinalMap)
+
 # Resources
 
 ## Mapbox Resources
@@ -15,10 +20,10 @@
 ----------
 ## Introduction to GIS/Web Mapping
 
-**Online classes** 
+**Online classes**
 
-- Penn State e-learning: [Introduction to GIS](http://- https://www.e-education.psu.edu/geog453/node/637) 
-- Penn State e- learning: [Web Mapping](https://www.e-education.psu.edu/geog585/node/508) 
+- Penn State e-learning: [Introduction to GIS](http://- https://www.e-education.psu.edu/geog453/node/637)
+- Penn State e- learning: [Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
 - University of Oregon: [Web Mapping](https://github.com/jakobzhao/geog371)
 - UC Davis/Coursera: [Introduction to GIS fundamentals](https://www.coursera.org/learn/gis)
 - Udemy: [QGIS instruction](https://www.udemy.com/topic/qgis/)
@@ -28,14 +33,14 @@
 - https://www.esri.com/training/catalog/57660c89bb54adb30c94541c/get-started-with-arcmap/
 - https://www.esri.com/training/catalog/5b733dab8659c25ea7013f8e/arcmap-fundamentals/
 
-**QGIS** training materials: 
+**QGIS** training materials:
 
 - https://docs.qgis.org/3.4/en/docs/training_manual/index.html
 - https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q
 
 
 ----------
-## Other Useful Tools 
+## Other Useful Tools
 
 
 - Data Merger: https://funkeinteraktiv.github.io/geo-data-merger/
@@ -43,16 +48,16 @@
 - Picking a color scale for scientific graphics: https://betterfigures.org/2015/06/23/picking-a-colour-scale-for-scientific-graphics/amp/?__twitter_impression=true
 - Color advice for maps: http://colorbrewer2.org/
 - Quick, simple tool for creating, viewing, and sharing maps: http://geojson.io/#map=2/20.0/0.0
-- Image color picker: https://imagecolorpicker.com/ 
+- Image color picker: https://imagecolorpicker.com/
 - Make a map style by dropping an image on the map with Cartogram: https://apps.mapbox.com/cartogram/#13.01/40.7251/-74.0051
 
 
 ----------
-## Where to find data? 
+## Where to find data?
 ****
 Jeremy Singer-Vine from Buzzfeed has an ongoing list of datasets: https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 
-**Local/Regional** 
+**Local/Regional**
 
 - Lots of cities have made their data available to the public (e.g. Oakland https://data.oaklandnet.com/, New York City https://opendata.cityofnewyork.us/)
 - California state data portal https://data.ca.gov/
@@ -79,6 +84,3 @@ Jeremy Singer-Vine from Buzzfeed has an ongoing list of datasets: https://docs.g
 - World Bank: https://datacatalog.worldbank.org/
 - Harvard Geospatial Library http://hgl.harvard.edu:8080/opengeoportal/
 - Global Forest Watch http://data.globalforestwatch.org/
-
-
-
