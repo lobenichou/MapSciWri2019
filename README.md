@@ -1,6 +1,6 @@
 # Introduction to Digital Mapping at SciWri2019
 
-- [The Slides](http://bit.ly/SciWriMappingSlides)
+- [The slides](http://bit.ly/SciWriMappingSlides)
 - [The map](http://bit.ly/SciWriFinalMap)
 
 # Resources
